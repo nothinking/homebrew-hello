@@ -4,7 +4,7 @@
 class Hellosean < Formula
   desc ""
   homepage "https://github.com/nothinking/homebrew-hellosean"
-  url "https://github.com/nothinking/homebrew-hellosean/archive/refs/tags/v0.0.3.tar.gz"
+  url "https://github.com/nothinking/homebrew-hellosean/archive/refs/tags/v0.0.4.tar.gz"
   sha256 "a6661e75430cee0b117e40c347dc12f169d27f95c1aea4ad49ab41a8f09a6bae"
   license ""
 
