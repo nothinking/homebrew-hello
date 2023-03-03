@@ -5,7 +5,7 @@ class Hellosean < Formula
   desc ""
   homepage "https://github.com/nothinking/homebrew-hellosean"
   url "https://github.com/nothinking/homebrew-hellosean/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "bd847a2d3f0769d5782af9e941caf3dcdc335efcb1c86f7a1857d09195e5cb84"
+  sha256 "8f94bd12c0efc6e5136ff90c0cd98d03fc204a20cce6cadd1a600cfa6fe574ec"
   license ""
 
   # depends_on "cmake" => :build
